@@ -20,3 +20,7 @@ Events Engine https://docs.saltstack.com/en/latest/topics/event/events.html#from
 
 Puppet
 Application Workflow https://docs.puppet.com/pe/latest/app_orchestration_workflow.html
+
+Chef
+Automate https://www.chef.io/automate/
+
